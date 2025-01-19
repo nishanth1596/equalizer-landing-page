@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.decorativeImage {
+  background-image: url("./assets/bg-main-mobile.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: top -3rem left 5rem;
+  width: 100%;
+}
+
+@media (min-width: 42.5rem) {
+  .decorativeImage {
+    background-image: url("./assets/bg-main-tablet.png"),
+      url("./assets/bg-main-tablet.png"), url("./assets/bg-pattern-1.svg");
+    background-position:
+      top 6.5rem left 18.5rem,
+      top left,
+      top -2.5rem right -2.94rem;
+    width: 100%, 100%, 16.67rem;
+    height: 400px;
+    background-repeat: no-repeat, no-repeat;
+    background-size: contain, contain;
+  }
+}
+
+@media (max-width: 70rem) {
+  .decorativeImage {
+    background-image: url("./assets/bg-main-tablet.png"),
+      url("./assets/bg-main-tablet.png"), url("./assets/bg-pattern-1.svg");
+    background-position:
+      top 6.5rem left 18.5rem,
+      top left,
+      top -2.5rem right -2.94rem;
+    width: 24rem, 24rem, 19.5rem;
+    height: 41rem, 24rem, 25rem;
+    background-repeat: no-repeat, no-repeat;
+    background-size: contain, contain;
+  }
+}
