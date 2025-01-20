@@ -8,8 +8,10 @@ const App = () => {
     <div className="flex justify-center">
       <div className="decorativeImage max-w-[20.94rem] md:max-w-[42.5rem] xl:max-w-[70rem]">
         <Header />
-        <Hero />
-        <ProductSection />
+        <main>
+          <Hero />
+          <ProductSection />
+        </main>
         <Footer />
       </div>
     </div>

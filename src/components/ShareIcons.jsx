@@ -9,6 +9,7 @@ const ShareIcons = () => {
     <>
       <a
         href="#"
+        aria-label="Contact Us on Facebook"
         onMouseEnter={() => setColor1("#fa7453")}
         onMouseLeave={() => setColor1("#191826")}
       >
@@ -21,6 +22,7 @@ const ShareIcons = () => {
       </a>
       <a
         href="#"
+        aria-label="Contact Us on Instagram"
         onMouseEnter={() => setColor2("#fa7453")}
         onMouseLeave={() => setColor2("#191826")}
       >
@@ -33,6 +35,7 @@ const ShareIcons = () => {
       </a>
       <a
         href="#"
+        aria-label="Contact Us on Twitter"
         onMouseEnter={() => setColor3("#fa7453")}
         onMouseLeave={() => setColor3("#191826")}
       >
