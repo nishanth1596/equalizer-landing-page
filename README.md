@@ -30,11 +30,12 @@ Users should be able to:
 
 ![Mobile view](./screenshot.png)
 ![Desktop view](./screenshot1.png)
+![mobile view](./screenshot2.png)
 
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/nishanth1596/article-preview-component)
-- Live Site URL: [Live site URL]()
+- Live Site URL: [Live site URL](https://nishanth-equalizer-landing-page.netlify.app/)
 
 ### Features
 
