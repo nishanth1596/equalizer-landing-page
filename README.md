@@ -77,7 +77,7 @@ To run this project locally:
 
 This project helped me become more comfortable with Tailwind CSS and its utility-first approach to styling. It also deepened my understanding of Flexbox and Grid layout techniques. Additionally, I learned how to implement different background images for various screen sizes.
 
-### Continued development### Continued development
+### Continued development
 
 I would also like to continue practicing more complex layout techniques, especially working with Flexbox and Grid
 
