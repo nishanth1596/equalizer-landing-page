@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/nishanth1596/article-preview-component)
+- Solution URL: [Solution URL](https://github.com/nishanth1596/equalizer-landing-page)
 - Live Site URL: [Live site URL](https://nishanth-equalizer-landing-page.netlify.app/)
 
 ### Features
@@ -48,7 +48,7 @@ To run this project locally:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/nishanth1596/social-proof-section.git
+   git clone https://github.com/nishanth1596/equalizer-landing-page.git
    ```
 
 2. Navigate into the project directory:
